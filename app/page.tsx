@@ -1,6 +1,6 @@
 'use client';
 
-import { useChat } from 'ai/react';
+import { useChat } from 'ai';
 import { useRef, useEffect } from 'react';
 
 export default function Chat() {
